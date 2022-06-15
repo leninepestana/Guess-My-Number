@@ -44,6 +44,10 @@ main {
     font-size: 2rem;
 }
 
+.credits {
+    display: flex;
+}
+
 /* ELEMENTS STYLE */
 h1 {
     font-size: 4rem;
